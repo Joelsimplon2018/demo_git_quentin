@@ -1,0 +1,22 @@
+{
+  "name": "demo_git_quentin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joelsimplon2018/demo_git_quentin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joelsimplon2018/demo_git_quentin/issues"
+  },
+  "homepage": "https://github.com/Joelsimplon2018/demo_git_quentin#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
